@@ -1,2 +1,2 @@
-# desafioaltran
-Desafia da Altran - conversor de moeda
+# DesafioAltran
+Conversor de moeda
